@@ -1,2 +1,7 @@
 data/auto-mpg.names
-notebooks/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
+mtcars_practice/build/
+mtcars_practice/dist/
+mtcars_practice/mtcars_practice.egg-info/
+mtcars_practice/mtcars_practice/__pycache__/
+
