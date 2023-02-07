@@ -2,9 +2,9 @@
 
 <details>
     <summary>Table of Contents</summary>
-    1. [Introduction](#introduction)
-    2. [Business Use Case](#business)
-    3. [Modeling](#modeling)
+1. [Introduction](#introduction)
+2. [Business Use Case](#business)
+3. [Modeling](#modeling)
 </details>
 
 ## Introduction
